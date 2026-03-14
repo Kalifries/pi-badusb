@@ -1,0 +1,1352 @@
+Unknown char: H
+Unknown char: W
+Unknown char: H
+Unknown char: W
+Traceback (most recent call last):
+  File "/home/transient/ducky.py", line 53, in <module>
+    with open(HID_DEVICE, 'rb+') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [Errno 108] Cannot send after transport endpoint shutdown
+Traceback (most recent call last):
+  File "/home/transient/ducky.py", line 53, in <module>
+    with open(HID_DEVICE, 'rb+') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [Errno 108] Cannot send after transport endpoint shutdown
+Traceback (most recent call last):
+  File "/home/transient/ducky.py", line 53, in <module>
+    with open(HID_DEVICE, 'rb+') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [Errno 108] Cannot send after transport endpoint shutdown
+Traceback (most recent call last):
+  File "/home/transient/ducky.py", line 53, in <module>
+    with open(HID_DEVICE, 'rb+') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/hidg0'
+Traceback (most recent call last):
+  File "/home/transient/ducky.py", line 53, in <module>
+    with open(HID_DEVICE, 'rb+') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/hidg0'
+  File "/home/transient/ducky.py", line 60
+    time.sleep(8)
+                 ^
+IndentationError: unindent does not match any outer indentation level
+  File "/home/transient/ducky.py", line 60
+    time.sleep(8)
+                 ^
+IndentationError: unindent does not match any outer indentation level
+  File "/home/transient/ducky.py", line 60
+    time.sleep(8)
+                 ^
+IndentationError: unindent does not match any outer indentation level
+Traceback (most recent call last):
+  File "/home/transient/ducky.py", line 53, in <module>
+    with open(HID_DEVICE, 'rb+') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/hidg0'
+Traceback (most recent call last):
+  File "/home/transient/ducky.py", line 53, in <module>
+    with open(HID_DEVICE, 'rb+') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/hidg0'
+Traceback (most recent call last):
+  File "/home/transient/ducky.py", line 53, in <module>
+    with open(HID_DEVICE, 'rb+') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/hidg0'
+Traceback (most recent call last):
+  File "/home/transient/ducky.py", line 66, in <module>
+    subprocess.run(['xdotool', 'search', '--sync', '--onlyvisible',
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                   '--class', 'konsole', 'windowfocus', '--sync'])
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/subprocess.py", line 554, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/subprocess.py", line 1039, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                        pass_fds, cwd, env,
+                        ^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+                        gid, gids, uid, umask,
+                        ^^^^^^^^^^^^^^^^^^^^^^
+                        start_new_session, process_group)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/subprocess.py", line 1972, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: 'xdotool'
+Error: Can't open display: (null)
+Failed creating new xdo instance
+Error: Can't open display: (null)
+Failed creating new xdo instance
+Error: Can't open display: (null)
+Failed creating new xdo instance
+Unknown command: EXTENSION
+Unknown command: DEFINE
+Unknown command: DEFINE
+Unknown command: VAR
+Unknown command: VAR
+Unknown command: VAR
+Unknown command: VAR
+Unknown command: VAR
+Unknown command: VAR
+Unknown command: VAR
+Unknown command: FUNCTION
+Unknown command: IF
+Unknown command: ELSE
+Unknown command: ELSE
+Unknown command: ELSE
+Unknown command: ELSE
+Unknown command: ELSE
+Unknown command: ELSE
+Unknown command: ELSE
+Unknown command: ELSE
+Unknown command: ELSE
+Unknown command: ELSE
+Unknown command: IF
+Unknown command: ELSE
+Unknown command: ELSE
+Unknown command: ELSE
+Unknown command: ELSE
+Unknown command: ELSE
+Unknown command: END_IF
+Unknown command: ELSE
+Unknown char: ?
+Unknown command: END_IF
+Unknown command: END_FUNCTION
+Unknown command: FUNCTION
+Unknown command: $D
+Unknown command: WHILE
+Unknown command: $D
+Unknown command: $INPUT
+Unknown command: END_WHILE
+Unknown command: IF
+Unknown command: $P
+Unknown command: PRINTDIGIT()
+Unknown command: END_IF
+Unknown command: END_FUNCTION
+Unknown command: FUNCTION
+Unknown command: $INPUT
+Unknown command: END_FUNCTION
+Unknown command: FUNCTION
+Unknown command: $DIGIT_PRINT_MODE
+Unknown command: $P
+Unknown command: IF
+Unknown command: $MOD
+Unknown command: CONSUME()
+Unknown command: END_IF
+Unknown command: IF
+Unknown command: $MOD
+Unknown command: CONSUME()
+Unknown command: END_IF
+Unknown command: IF
+Unknown command: $MOD
+Unknown command: CONSUME()
+Unknown command: END_IF
+Unknown command: IF
+Unknown command: $MOD
+Unknown command: CONSUME()
+Unknown command: END_IF()
+Unknown command: $D
+Unknown command: PRINTDIGIT()
+Unknown command: IF
+Unknown command: END_IF
+Unknown command: END_FUNCTION
+Unknown command: FUNCTION
+Unknown command: IF
+Unknown command: ELSE
+Unknown command: END_IF
+Unknown command: IF
+Unknown command: END_IF
+Unknown command: END_FUNCTION
+Unknown command: FUNCTION
+Unknown command: $DIGIT_PRINT_MODE
+Unknown command: VAR
+Unknown command: VAR
+Unknown command: VAR
+Unknown command: VAR
+Unknown command: VAR
+Unknown command: WHILE
+Unknown command: IF
+Unknown command: $D1
+Unknown command: ELSE
+Unknown command: $D2
+Unknown command: ELSE
+Unknown command: $D3
+Unknown command: ELSE
+Unknown command: $D4
+Unknown command: END_IF
+Unknown command: $CHARS
+Unknown command: $INPUT
+Unknown command: END_WHILE
+Unknown command: VAR
+Unknown command: IF
+Unknown command: ELSE
+Unknown command: $D
+Unknown command: PRINTDIGIT()
+Unknown command: ELSE
+Unknown command: $D
+Unknown command: PRINTDIGIT()
+Unknown command: $D
+Unknown command: PRINTDIGIT()
+Unknown command: ELSE
+Unknown command: $D
+Unknown command: PRINTDIGIT()
+Unknown command: $D
+Unknown command: PRINTDIGIT()
+Unknown command: $D
+Unknown command: PRINTDIGIT()
+Unknown command: ELSE
+Unknown command: $D
+Unknown command: PRINTDIGIT()
+Unknown command: $D
+Unknown command: PRINTDIGIT()
+Unknown command: $D
+Unknown command: PRINTDIGIT()
+Unknown command: $D
+Unknown command: PRINTDIGIT()
+Unknown command: END_IF
+Unknown command: IF
+Unknown command: END_IF
+Unknown command: END_FUNCTION
+Unknown command: FUNCTION
+Unknown command: VAR
+Unknown command: WHILE
+Unknown command: $I
+Unknown command: IF
+Unknown command: ELSE
+Unknown command: END_IF
+Unknown command: $INPUT
+Unknown command: END_WHILE
+Unknown command: IF
+Unknown command: END_IF
+Unknown command: END_FUNCTION
+Unknown command: END_EXTENSION
+Unknown command: ATTACKMODE
+Unknown command: DEFINE
+Unknown command: VAR
+Unknown command: VAR
+Unknown command: VAR
+Unknown command: VAR
+Unknown command: VAR
+Unknown command: $NL
+Unknown command: FUNCTION
+Unknown command: DOWNARROW
+Unknown command: IF
+Unknown command: $COIN
+Unknown command: RIGHTARROW
+Unknown command: ELSE
+Unknown command: $COIN
+Unknown command: LEFTARROW
+Unknown command: END_IF
+Unknown command: END_FUNCTION
+Unknown command: FUNCTION
+Unknown command: VAR
+Unknown command: WHILE
+Unknown command: MOVE()
+Traceback (most recent call last):
+  File "/home/transient/ducky_parser.py", line 124, in <module>
+    parse_and_run(sys.argv[1])
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/transient/ducky_parser.py", line 76, in parse_and_run
+    time.sleep(int(arg) / 1000)  # duckyscript delay is in ms
+               ~~~^^^^^
+ValueError: invalid literal for int() with base 10: 'GAME_SPEED'
+Unknown char: |
+Unknown char: "
+Unknown char: ,
+Unknown char: ;
+Unknown char: (
+Unknown char: )
+Unknown char: ;
+Unknown char: ,
+Unknown char: [
+Unknown char: '
+Unknown char: '
+Unknown char: ]
+Unknown char: (
+Unknown char: '
+Unknown char: ,
+Unknown char: '
+Unknown char: )
+Unknown char: ;
+Unknown char: ;
+Unknown char: (
+Unknown char: [
+Unknown char: '
+Unknown char: '
+Unknown char: ,
+Unknown char: '
+Unknown char: :
+Unknown char: ?
+Unknown char: {
+Unknown char: }
+Unknown char: ,
+Unknown char: {
+Unknown char: }
+Unknown char: '
+Unknown char: ]
+Unknown char: )
+Unknown char: "
+Unknown char: &
+Unknown char: ⚠
+Unknown char: ️
+Unknown char: ⚠
+Unknown char: ️
+Unknown char: :
+Unknown char: |
+Unknown char: "
+Unknown char: ,
+Unknown char: ;
+Unknown char: (
+Unknown char: )
+Unknown char: ;
+Unknown char: ,
+Unknown char: [
+Unknown char: '
+Unknown char: '
+Unknown char: ]
+Unknown char: (
+Unknown char: '
+Unknown char: ,
+Unknown char: '
+Unknown char: )
+Unknown char: ;
+Unknown char: ;
+Unknown char: (
+Unknown char: [
+Unknown char: '
+Unknown char: '
+Unknown char: ,
+Unknown char: '
+Unknown char: :
+Unknown char: ?
+Unknown char: {
+Unknown char: }
+Unknown char: ,
+Unknown char: {
+Unknown char: }
+Unknown char: '
+Unknown char: ]
+Unknown char: )
+Unknown char: "
+Unknown char: &
+Unknown char: ⚠
+Unknown char: ️
+Unknown char: ⚠
+Unknown char: ️
+Unknown char: :
+Unknown char: |
+Unknown char: "
+Unknown char: ,
+Unknown char: ;
+Unknown char: (
+Unknown char: )
+Unknown char: ;
+Unknown char: ,
+Unknown char: [
+Unknown char: '
+Unknown char: '
+Unknown char: ]
+Unknown char: (
+Unknown char: '
+Unknown char: ,
+Unknown char: '
+Unknown char: )
+Unknown char: ;
+Unknown char: ;
+Unknown char: (
+Unknown char: [
+Unknown char: '
+Unknown char: '
+Unknown char: ,
+Unknown char: '
+Unknown char: :
+Unknown char: ?
+Unknown char: {
+Unknown char: }
+Unknown char: ,
+Unknown char: {
+Unknown char: }
+Unknown char: '
+Unknown char: ]
+Unknown char: )
+Unknown char: "
+Unknown char: &
+Unknown char: ⚠
+Unknown char: ️
+Unknown char: ⚠
+Unknown char: ️
+Unknown char: :
+Unknown char: |
+Unknown char: "
+Unknown char: ,
+Unknown char: ;
+Unknown char: (
+Unknown char: )
+Unknown char: ;
+Unknown char: ,
+Unknown char: [
+Unknown char: '
+Unknown char: '
+Unknown char: ]
+Unknown char: (
+Unknown char: '
+Unknown char: ,
+Unknown char: '
+Unknown char: )
+Unknown char: ;
+Unknown char: ;
+Unknown char: (
+Unknown char: [
+Unknown char: '
+Unknown char: '
+Unknown char: ,
+Unknown char: '
+Unknown char: :
+Unknown char: ?
+Unknown char: {
+Unknown char: }
+Unknown char: ,
+Unknown char: {
+Unknown char: }
+Unknown char: '
+Unknown char: ]
+Unknown char: )
+Unknown char: "
+Unknown char: &
+Unknown char: ⚠
+Unknown char: ️
+Unknown char: ⚠
+Unknown char: ️
+Unknown char: :
+Unknown char: |
+Unknown char: "
+Unknown char: ,
+Unknown char: ;
+Unknown char: (
+Unknown char: )
+Unknown char: ;
+Unknown char: ,
+Unknown char: [
+Unknown char: '
+Unknown char: '
+Unknown char: ]
+Unknown char: (
+Unknown char: '
+Unknown char: ,
+Unknown char: '
+Unknown char: )
+Unknown char: ;
+Unknown char: ;
+Unknown char: (
+Unknown char: [
+Unknown char: '
+Unknown char: '
+Unknown char: ,
+Unknown char: '
+Unknown char: :
+Unknown char: ?
+Unknown char: {
+Unknown char: }
+Unknown char: ,
+Unknown char: {
+Unknown char: }
+Unknown char: '
+Unknown char: ]
+Unknown char: )
+Unknown char: "
+Unknown char: &
+Unknown char: :
+Traceback (most recent call last):
+  File "/home/transient/ducky_parser.py", line 124, in <module>
+    parse_and_run(sys.argv[1])
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/transient/ducky_parser.py", line 98, in parse_and_run
+    send_report(MODIFIER_CODES['GUI'], SPECIAL_KEYS[arg.upper()])
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/transient/ducky_parser.py", line 46, in send_report
+    with open(HID_DEVICE, 'rb+') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [Errno 108] Cannot send after transport endpoint shutdown
+Traceback (most recent call last):
+  File "/home/transient/ducky_parser.py", line 124, in <module>
+    parse_and_run(sys.argv[1])
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/transient/ducky_parser.py", line 98, in parse_and_run
+    send_report(MODIFIER_CODES['GUI'], SPECIAL_KEYS[arg.upper()])
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/transient/ducky_parser.py", line 46, in send_report
+    with open(HID_DEVICE, 'rb+') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [Errno 108] Cannot send after transport endpoint shutdown
+Traceback (most recent call last):
+  File "/home/transient/ducky_parser.py", line 124, in <module>
+    parse_and_run(sys.argv[1])
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/transient/ducky_parser.py", line 98, in parse_and_run
+    send_report(MODIFIER_CODES['GUI'], SPECIAL_KEYS[arg.upper()])
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/transient/ducky_parser.py", line 46, in send_report
+    with open(HID_DEVICE, 'rb+') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/hidg0'
+Traceback (most recent call last):
+  File "/home/transient/ducky_parser.py", line 124, in <module>
+    parse_and_run(sys.argv[1])
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/transient/ducky_parser.py", line 98, in parse_and_run
+    send_report(MODIFIER_CODES['GUI'], SPECIAL_KEYS[arg.upper()])
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/transient/ducky_parser.py", line 46, in send_report
+    with open(HID_DEVICE, 'rb+') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/hidg0'
+Traceback (most recent call last):
+  File "/home/transient/ducky_parser.py", line 124, in <module>
+    parse_and_run(sys.argv[1])
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/transient/ducky_parser.py", line 98, in parse_and_run
+    send_report(MODIFIER_CODES['GUI'], SPECIAL_KEYS[arg.upper()])
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/transient/ducky_parser.py", line 46, in send_report
+    with open(HID_DEVICE, 'rb+') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/hidg0'
+Unknown char: |
+Unknown char: "
+Unknown char: ,
+Unknown char: ;
+Unknown char: (
+Unknown char: )
+Unknown char: ;
+Unknown char: ,
+Unknown char: [
+Unknown char: '
+Unknown char: '
+Unknown char: ]
+Unknown char: (
+Unknown char: '
+Unknown char: ,
+Unknown char: '
+Unknown char: )
+Unknown char: ;
+Unknown char: ;
+Unknown char: (
+Unknown char: [
+Unknown char: '
+Unknown char: '
+Unknown char: ,
+Unknown char: '
+Unknown char: :
+Unknown char: ?
+Unknown char: {
+Unknown char: }
+Unknown char: ,
+Unknown char: {
+Unknown char: }
+Unknown char: '
+Unknown char: ]
+Unknown char: )
+Unknown char: "
+Unknown char: &
+Unknown char: :
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                Unknown char: |
+Unknown char: "
+Unknown char: ,
+Unknown char: ;
+Unknown char: (
+Unknown char: )
+Unknown char: ;
+Unknown char: ,
+Unknown char: [
+Unknown char: '
+Unknown char: '
+Unknown char: ]
+Unknown char: (
+Unknown char: '
+Unknown char: ,
+Unknown char: '
+Unknown char: )
+Unknown char: ;
+Unknown char: ;
+Unknown char: (
+Unknown char: [
+Unknown char: '
+Unknown char: '
+Unknown char: ,
+Unknown char: '
+Unknown char: :
+Unknown char: ?
+Unknown char: {
+Unknown char: }
+Unknown char: ,
+Unknown char: {
+Unknown char: }
+Unknown char: '
+Unknown char: ]
+Unknown char: )
+Unknown char: "
+Unknown char: &
+Unknown char: :
+Unknown char: |
+Unknown char: "
+Unknown char: ,
+Unknown char: ;
+Unknown char: (
+Unknown char: )
+Unknown char: ;
+Unknown char: ,
+Unknown char: [
+Unknown char: '
+Unknown char: '
+Unknown char: ]
+Unknown char: (
+Unknown char: '
+Unknown char: ,
+Unknown char: '
+Unknown char: )
+Unknown char: ;
+Unknown char: ;
+Unknown char: (
+Unknown char: [
+Unknown char: '
+Unknown char: '
+Unknown char: ,
+Unknown char: '
+Unknown char: :
+Unknown char: ?
+Unknown char: {
+Unknown char: }
+Unknown char: ,
+Unknown char: {
+Unknown char: }
+Unknown char: '
+Unknown char: ]
+Unknown char: )
+Unknown char: "
+Unknown char: &
+Unknown char: :
+Unknown char: |
+Unknown char: "
+Unknown char: ,
+Unknown char: ;
+Unknown char: (
+Unknown char: )
+Unknown char: ;
+Unknown char: ,
+Unknown char: [
+Unknown char: '
+Unknown char: '
+Unknown char: ]
+Unknown char: (
+Unknown char: '
+Unknown char: ,
+Unknown char: '
+Unknown char: )
+Unknown char: ;
+Unknown char: ;
+Unknown char: (
+Unknown char: [
+Unknown char: '
+Unknown char: '
+Unknown char: ,
+Unknown char: '
+Unknown char: :
+Unknown char: ?
+Unknown char: {
+Unknown char: }
+Unknown char: ,
+Unknown char: {
+Unknown char: }
+Unknown char: '
+Unknown char: ]
+Unknown char: )
+Unknown char: "
+Unknown char: &
+Unknown char: :
+Traceback (most recent call last):
+  File "/home/transient/ducky_parser.py", line 124, in <module>
+    parse_and_run(sys.argv[1])
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/transient/ducky_parser.py", line 98, in parse_and_run
+    send_report(MODIFIER_CODES['GUI'], SPECIAL_KEYS[arg.upper()])
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/transient/ducky_parser.py", line 46, in send_report
+    with open(HID_DEVICE, 'rb+') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^
+BrokenPipeError: [Errno 108] Cannot send after transport endpoint shutdown
+Unknown char: |
+Unknown char: "
+Unknown char: ,
+Unknown char: ;
+Unknown char: (
+Unknown char: )
+Unknown char: ;
+Unknown char: ,
+Unknown char: [
+Unknown char: '
+Unknown char: '
+Unknown char: ]
+Unknown char: (
+Unknown char: '
+Unknown char: ,
+Unknown char: '
+Unknown char: )
+Unknown char: ;
+Unknown char: ;
+Unknown char: (
+Unknown char: [
+Unknown char: '
+Unknown char: '
+Unknown char: ,
+Unknown char: '
+Unknown char: :
+Unknown char: ?
+Unknown char: {
+Unknown char: }
+Unknown char: ,
+Unknown char: {
+Unknown char: }
+Unknown char: '
+Unknown char: ]
+Unknown char: )
+Unknown char: "
+Unknown char: &
+Unknown char: :
+Unknown char: ~
+Unknown char: _
+Unknown char: @
+Unknown char: ~
+Unknown char: @
+                Unknown char: ~
+Traceback (most recent call last):
+  File "/home/transient/ducky_parser.py", line 142, in <module>
+    parse_and_run(sys.argv[1])
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/transient/ducky_parser.py", line 134, in parse_and_run
+    send_report(modifier, keycode)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "/home/transient/ducky_parser.py", line 71, in send_report
+    with open(HID_DEVICE, 'rb+') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/hidg0'
+Traceback (most recent call last):
+  File "/home/transient/ducky_parser.py", line 142, in <module>
+    parse_and_run(sys.argv[1])
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/transient/ducky_parser.py", line 134, in parse_and_run
+    send_report(modifier, keycode)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "/home/transient/ducky_parser.py", line 71, in send_report
+    with open(HID_DEVICE, 'rb+') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/hidg0'
+Traceback (most recent call last):
+  File "/home/transient/ducky_parser.py", line 142, in <module>
+    parse_and_run(sys.argv[1])
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/transient/ducky_parser.py", line 134, in parse_and_run
+    send_report(modifier, keycode)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "/home/transient/ducky_parser.py", line 71, in send_report
+    with open(HID_DEVICE, 'rb+') as f:
+         ~~~~^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/hidg0'
+2026-03-07 09:52:20 [INFO] --- Payload start: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-07 09:52:20 [INFO] Line 5: DELAY 500
+2026-03-07 09:52:20 [INFO] Line 6: CTRL ALT t
+2026-03-07 09:52:20 [INFO] Line 7: DELAY 3000
+2026-03-07 09:52:23 [INFO] Line 8: STRING ssh -i ~/.ssh/pizero_key.pem transient@192.168.1.1
+2026-03-07 09:52:24 [INFO] Line 9: ENTER 
+2026-03-07 09:52:24 [INFO] Line 10: DELAY 3000
+2026-03-07 09:52:27 [INFO] Line 11: STRING realshookones
+2026-03-07 09:52:27 [INFO] Line 12: ENTER 
+2026-03-07 09:52:27 [INFO] Line 13: DELAY 10000
+2026-03-07 09:55:38 [INFO] Line 14: STRING fastfetch
+2026-03-07 09:55:38 [INFO] Line 15: ENTER 
+2026-03-07 09:55:38 [INFO] Line 16: DELAY 7000
+2026-03-07 09:55:45 [INFO] Line 17: STRING nmcli device wifi list
+2026-03-07 09:55:46 [INFO] Line 18: ENTER 
+2026-03-07 09:55:46 [INFO] --- Payload complete: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-07 09:57:33 [INFO] --- Payload start: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-07 09:57:33 [INFO] Line 5: DELAY 500
+2026-03-07 09:57:33 [INFO] Line 6: CTRL ALT t
+2026-03-07 09:57:33 [INFO] Line 7: DELAY 3000
+2026-03-07 09:57:36 [INFO] Line 8: STRING ssh -i ~/.ssh/pizero_key transient@192.168.1.132
+2026-03-07 09:57:37 [INFO] Line 9: ENTER 
+2026-03-07 09:57:37 [INFO] Line 10: DELAY 3000
+2026-03-07 09:57:40 [INFO] Line 11: STRING realshookones
+2026-03-07 09:57:40 [INFO] Line 12: ENTER 
+2026-03-07 09:57:40 [INFO] Line 13: DELAY 10000
+2026-03-07 10:00:05 [INFO] Line 14: STRING fastfetch
+2026-03-07 10:00:05 [INFO] Line 15: ENTER 
+2026-03-07 10:00:05 [INFO] Line 16: DELAY 5000
+2026-03-07 10:00:10 [INFO] Line 17: STRING nmcli device wifi list
+2026-03-07 10:00:11 [INFO] Line 18: ENTER 
+2026-03-07 10:00:11 [INFO] --- Payload complete: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-07 10:02:02 [INFO] --- Payload start: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-07 10:02:02 [INFO] Line 5: DELAY 500
+2026-03-07 10:02:02 [INFO] Line 6: CTRL ALT t
+2026-03-07 10:02:02 [INFO] Line 7: DELAY 3000
+2026-03-07 10:02:05 [INFO] Line 8: STRING ssh -i ~/.ssh/pizero_key transient@192.168.1.132
+2026-03-07 10:02:06 [INFO] Line 9: ENTER 
+2026-03-07 10:02:06 [INFO] Line 10: DELAY 3000
+2026-03-07 10:02:09 [INFO] Line 11: STRING realshookones
+2026-03-07 10:02:10 [INFO] Line 12: ENTER 
+2026-03-07 10:02:10 [INFO] Line 13: DELAY 10000
+2026-03-07 10:03:12 [INFO] Line 14: STRING fastfetch
+2026-03-07 10:03:12 [INFO] Line 15: ENTER 
+2026-03-07 10:03:12 [INFO] Line 16: DELAY 5000
+2026-03-07 10:03:17 [INFO] Line 17: STRING nmcli device wifi list
+2026-03-07 10:03:17 [INFO] Line 18: ENTER 
+2026-03-07 10:03:17 [INFO] --- Payload complete: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-07 10:16:40 [INFO] --- Payload start: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-07 10:16:40 [INFO] Line 5: DELAY 500
+2026-03-07 10:16:41 [INFO] Line 6: CTRL ALT t
+2026-03-07 10:16:41 [INFO] Line 7: DELAY 3000
+2026-03-07 10:16:44 [INFO] Line 8: STRING ssh -i ~/.ssh/pizero_key transient@192.168.1.132
+2026-03-07 10:16:45 [INFO] Line 9: ENTER 
+2026-03-07 10:16:45 [INFO] Line 10: DELAY 3000
+2026-03-07 10:16:48 [INFO] Line 11: STRING realshookones
+2026-03-07 10:16:48 [INFO] Line 12: ENTER 
+2026-03-07 10:16:48 [INFO] Line 13: DELAY 10000
+2026-03-07 10:19:47 [INFO] Line 14: STRING fastfetch
+2026-03-07 10:19:47 [INFO] Line 15: ENTER 
+2026-03-07 10:19:47 [INFO] Line 16: DELAY 5000
+2026-03-07 10:19:52 [INFO] Line 17: STRING nmcli device wifi list
+2026-03-07 10:19:53 [INFO] Line 18: ENTER 
+2026-03-07 10:19:53 [INFO] --- Payload complete: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-07 10:45:03 [INFO] --- Payload start: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-07 10:45:03 [INFO] Line 5: DELAY 500
+2026-03-07 10:45:04 [INFO] Line 6: CTRL ALT t
+2026-03-07 10:45:04 [INFO] Line 7: DELAY 3000
+2026-03-07 10:45:07 [INFO] Line 8: STRING ssh -i ~/.ssh/pizero_key transient@192.168.1.132
+2026-03-07 10:45:08 [INFO] Line 9: ENTER 
+2026-03-07 10:45:08 [INFO] Line 10: DELAY 3000
+2026-03-07 10:45:11 [INFO] Line 11: STRING realshookones
+2026-03-07 10:45:11 [INFO] Line 12: ENTER 
+2026-03-07 10:45:11 [INFO] Line 13: DELAY 10000
+2026-03-07 10:45:32 [INFO] Line 14: STRING fastfetch
+2026-03-07 10:45:32 [INFO] Line 15: ENTER 
+2026-03-07 10:45:32 [INFO] Line 16: DELAY 5000
+2026-03-07 10:45:37 [INFO] Line 17: STRING nmcli device wifi list
+2026-03-07 10:45:38 [INFO] Line 18: ENTER 
+2026-03-07 10:45:38 [INFO] --- Payload complete: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-07 10:58:58 [INFO] --- Payload start: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-07 10:58:58 [INFO] Line 5: DELAY 500
+2026-03-07 10:58:58 [INFO] Line 6: CTRL ALT t
+2026-03-07 10:58:58 [INFO] Line 7: DELAY 3000
+2026-03-07 10:59:01 [INFO] Line 8: STRING ssh -i ~/.ssh/pizero_key transient@192.168.1.132
+2026-03-07 10:59:02 [INFO] Line 9: ENTER 
+2026-03-07 10:59:02 [INFO] Line 10: DELAY 3000
+2026-03-07 10:59:05 [INFO] Line 11: STRING realshookones
+2026-03-07 10:59:06 [INFO] Line 12: ENTER 
+2026-03-07 10:59:06 [INFO] Line 13: DELAY 10000
+2026-03-07 11:07:22 [INFO] Line 14: STRING fastfetch
+2026-03-07 11:07:22 [INFO] Line 15: ENTER 
+2026-03-07 11:07:22 [INFO] Line 16: DELAY 5000
+2026-03-07 11:07:27 [INFO] Line 17: STRING nmcli device wifi list
+2026-03-07 11:07:27 [INFO] Line 18: ENTER 
+2026-03-07 11:07:27 [INFO] --- Payload complete: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-08 07:59:02 [INFO] --- Payload start: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-08 07:59:02 [INFO] Line 5: DELAY 500
+2026-03-08 07:59:03 [INFO] Line 6: CTRL ALT t
+2026-03-08 07:59:03 [INFO] Line 7: DELAY 3000
+2026-03-08 07:59:06 [INFO] Line 8: STRING ssh -i ~/.ssh/pizero_key transient@192.168.1.132
+2026-03-08 07:59:07 [INFO] Line 9: ENTER 
+2026-03-08 07:59:07 [INFO] Line 10: DELAY 3000
+2026-03-08 07:59:10 [INFO] Line 11: STRING realshookones
+2026-03-08 07:59:10 [INFO] Line 12: ENTER 
+2026-03-08 07:59:10 [INFO] Line 13: DELAY 10000
+2026-03-08 07:59:32 [INFO] Line 14: STRING fastfetch
+2026-03-08 07:59:32 [INFO] Line 15: ENTER 
+2026-03-08 07:59:32 [INFO] Line 16: DELAY 5000
+2026-03-08 07:59:37 [INFO] Line 17: STRING nmcli device wifi list
+2026-03-08 07:59:37 [INFO] Line 18: ENTER 
+2026-03-08 07:59:37 [INFO] --- Payload complete: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-08 08:17:35 [INFO] --- Payload start: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-08 08:17:35 [INFO] Line 5: DELAY 500
+2026-03-08 08:17:35 [INFO] Line 6: CTRL ALT t
+2026-03-08 08:17:35 [INFO] Line 7: DELAY 3000
+2026-03-08 08:17:38 [INFO] Line 8: STRING ssh -i ~/.ssh/pizero_key transient@192.168.1.132
+2026-03-08 08:17:39 [INFO] Line 9: ENTER 
+2026-03-08 08:17:39 [INFO] Line 10: DELAY 3000
+2026-03-08 08:17:42 [INFO] Line 11: STRING realshookones
+2026-03-08 08:17:43 [INFO] Line 12: ENTER 
+2026-03-08 08:17:43 [INFO] Line 13: DELAY 10000
+2026-03-08 08:20:00 [INFO] Line 14: STRING fastfetch
+2026-03-08 08:20:00 [INFO] Line 15: ENTER 
+2026-03-08 08:20:00 [INFO] Line 16: DELAY 5000
+2026-03-08 08:20:05 [INFO] Line 17: STRING nmcli device wifi list
+2026-03-08 08:20:06 [INFO] Line 18: ENTER 
+2026-03-08 08:20:06 [INFO] --- Payload complete: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-08 08:20:19 [INFO] --- Payload start: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-08 08:20:19 [INFO] Line 5: DELAY 500
+2026-03-08 08:20:19 [INFO] Line 6: CTRL ALT t
+2026-03-08 08:20:19 [INFO] Line 7: DELAY 3000
+2026-03-08 08:20:22 [INFO] Line 8: STRING ssh -i ~/.ssh/pizero_key transient@192.168.1.132
+2026-03-08 08:20:23 [INFO] Line 9: ENTER 
+2026-03-08 08:20:23 [INFO] Line 10: DELAY 3000
+2026-03-08 08:20:26 [INFO] Line 11: STRING realshookones
+2026-03-08 08:20:27 [INFO] Line 12: ENTER 
+2026-03-08 08:20:27 [INFO] Line 13: DELAY 10000
+2026-03-08 09:00:21 [INFO] Line 14: STRING fastfetch
+2026-03-08 09:00:22 [INFO] Line 15: ENTER 
+2026-03-08 09:00:22 [INFO] Line 16: DELAY 5000
+2026-03-08 09:00:27 [INFO] Line 17: STRING nmcli device wifi list
+2026-03-08 09:00:27 [INFO] Line 18: ENTER 
+2026-03-08 09:00:27 [INFO] --- Payload complete: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-08 09:14:48 [INFO] --- Payload start: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-08 09:14:48 [INFO] Line 5: DELAY 500
+2026-03-08 09:14:49 [INFO] Line 6: CTRL ALT t
+2026-03-08 09:14:49 [INFO] Line 7: DELAY 3000
+2026-03-08 09:14:52 [INFO] Line 8: STRING ssh -i ~/.ssh/pizero_key transient@192.168.1.132
+2026-03-08 09:14:53 [INFO] Line 9: ENTER 
+2026-03-08 09:14:53 [INFO] Line 10: DELAY 3000
+2026-03-08 09:14:56 [INFO] Line 11: STRING realshookones
+2026-03-08 09:14:56 [INFO] Line 12: ENTER 
+2026-03-08 09:14:56 [INFO] Line 13: DELAY 10000
+2026-03-08 14:22:18 [INFO] Line 14: STRING fastfetch
+2026-03-08 14:22:19 [INFO] Line 15: ENTER 
+2026-03-08 14:22:19 [INFO] Line 16: DELAY 5000
+2026-03-08 14:22:24 [INFO] Line 17: STRING nmcli device wifi list
+2026-03-08 14:22:24 [INFO] Line 18: ENTER 
+2026-03-08 14:22:24 [INFO] --- Payload complete: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-08 20:23:54 [INFO] --- Payload start: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-08 20:23:54 [INFO] Line 5: DELAY 500
+2026-03-08 20:23:54 [INFO] Line 6: CTRL ALT t
+2026-03-08 20:23:54 [INFO] Line 7: DELAY 3000
+2026-03-08 20:23:57 [INFO] Line 8: STRING ssh -i ~/.ssh/pizero_key transient@192.168.1.132
+2026-03-08 20:23:58 [INFO] Line 9: ENTER 
+2026-03-08 20:23:58 [INFO] Line 10: DELAY 3000
+2026-03-08 20:24:01 [INFO] Line 11: STRING realshookones
+2026-03-08 20:24:01 [INFO] Line 12: ENTER 
+2026-03-08 20:24:01 [INFO] Line 13: DELAY 10000
+2026-03-08 20:25:24 [INFO] Line 14: STRING fastfetch
+2026-03-08 20:25:24 [INFO] Line 15: ENTER 
+2026-03-08 20:25:24 [INFO] Line 16: DELAY 5000
+2026-03-08 20:25:29 [INFO] Line 17: STRING nmcli device wifi list
+2026-03-08 20:25:30 [INFO] Line 18: ENTER 
+2026-03-08 20:25:30 [INFO] --- Payload complete: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-10 04:16:47 [INFO] --- Payload start: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-10 04:16:47 [INFO] Line 5: DELAY 500
+2026-03-10 04:16:48 [INFO] Line 6: CTRL ALT t
+2026-03-10 04:16:48 [INFO] Line 7: DELAY 3000
+2026-03-10 04:16:51 [INFO] Line 8: STRING ssh -i ~/.ssh/pizero_key transient@192.168.1.132
+2026-03-10 04:16:52 [INFO] Line 9: ENTER 
+2026-03-10 04:16:52 [INFO] Line 10: DELAY 3000
+2026-03-10 04:16:55 [INFO] Line 11: STRING realshookones
+2026-03-10 04:16:55 [INFO] Line 12: ENTER 
+2026-03-10 04:16:55 [INFO] Line 13: DELAY 10000
+2026-03-10 04:17:16 [INFO] Line 14: STRING fastfetch
+2026-03-10 04:17:16 [INFO] Line 15: ENTER 
+2026-03-10 04:17:16 [INFO] Line 16: DELAY 5000
+2026-03-10 04:17:21 [INFO] Line 17: STRING nmcli device wifi list
+2026-03-10 04:17:22 [INFO] Line 18: ENTER 
+2026-03-10 04:17:22 [INFO] --- Payload complete: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-10 04:18:42 [INFO] --- Payload start: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-10 04:18:42 [INFO] Line 5: DELAY 500
+2026-03-10 04:18:42 [INFO] Line 6: CTRL ALT t
+2026-03-10 04:18:42 [INFO] Line 7: DELAY 3000
+2026-03-10 04:18:45 [INFO] Line 8: STRING ssh -i ~/.ssh/pizero_key transient@192.168.1.132
+2026-03-10 04:18:46 [INFO] Line 9: ENTER 
+2026-03-10 04:18:46 [INFO] Line 10: DELAY 3000
+2026-03-10 04:18:49 [INFO] Line 11: STRING realshookones
+2026-03-10 04:18:49 [INFO] Line 12: ENTER 
+2026-03-10 04:18:49 [INFO] Line 13: DELAY 10000
+2026-03-10 04:18:59 [INFO] Line 14: STRING fastfetch
+2026-03-10 04:19:00 [INFO] Line 15: ENTER 
+2026-03-10 04:19:00 [INFO] Line 16: DELAY 5000
+2026-03-10 04:19:05 [INFO] Line 17: STRING nmcli device wifi list
+2026-03-10 04:19:05 [INFO] Line 18: ENTER 
+2026-03-10 04:19:05 [INFO] --- Payload complete: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-10 06:18:36 [INFO] --- Payload start: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-10 06:18:36 [INFO] Line 5: DELAY 500
+2026-03-10 06:18:37 [INFO] Line 6: CTRL ALT t
+2026-03-10 06:18:37 [INFO] Line 7: DELAY 3000
+2026-03-10 06:18:40 [INFO] Line 8: STRING ssh -i ~/.ssh/pizero_key transient@192.168.1.132
+2026-03-10 06:18:41 [INFO] Line 9: ENTER 
+2026-03-10 06:18:41 [INFO] Line 10: DELAY 2000
+2026-03-10 06:18:43 [INFO] Line 11: STRING realshookones
+2026-03-10 06:18:43 [INFO] Line 12: ENTER 
+2026-03-10 06:18:43 [INFO] Line 13: DELAY 5000
+2026-03-10 06:18:48 [INFO] Line 14: STRING fastfetch
+2026-03-10 06:18:48 [INFO] Line 15: ENTER 
+2026-03-10 06:18:48 [INFO] Line 16: DELAY 3000
+2026-03-10 06:18:51 [INFO] Line 17: STRING nmcli device wifi list
+2026-03-10 06:18:52 [INFO] Line 18: ENTER 
+2026-03-10 06:18:52 [INFO] --- Payload complete: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-10 10:02:43 [INFO] --- Payload start: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-10 10:02:43 [INFO] Line 5: DELAY 500
+2026-03-10 10:02:43 [INFO] Line 6: CTRL ALT t
+2026-03-10 10:02:43 [INFO] Line 7: DELAY 3000
+2026-03-10 10:02:46 [INFO] Line 8: STRING ssh -i ~/.ssh/pizero_key transient@192.168.1.132
+2026-03-10 10:02:47 [INFO] Line 9: ENTER 
+2026-03-10 10:02:47 [INFO] Line 10: DELAY 2000
+2026-03-10 10:02:49 [INFO] Line 11: STRING realshookones
+2026-03-10 10:02:49 [INFO] Line 12: ENTER 
+2026-03-10 10:02:49 [INFO] Line 13: DELAY 5000
+2026-03-10 12:22:29 [INFO] Line 14: STRING fastfetch
+2026-03-10 12:22:29 [INFO] Line 15: ENTER 
+2026-03-10 12:22:29 [INFO] Line 16: DELAY 3000
+2026-03-10 12:22:32 [INFO] Line 17: STRING nmcli device wifi list
+2026-03-10 12:22:33 [INFO] Line 18: ENTER 
+2026-03-10 12:22:33 [INFO] --- Payload complete: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-11 06:17:49 [INFO] --- Payload start: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-11 06:17:49 [INFO] Line 5: DELAY 500
+2026-03-11 06:17:50 [INFO] Line 6: CTRL ALT t
+2026-03-11 06:17:50 [INFO] Line 7: DELAY 3000
+2026-03-11 06:17:53 [INFO] Line 8: STRING ssh -i ~/.ssh/pizero_key transient@192.168.1.132
+2026-03-11 06:17:54 [INFO] Line 9: ENTER 
+2026-03-11 06:17:54 [INFO] Line 10: DELAY 2000
+2026-03-11 06:17:56 [INFO] Line 11: STRING realshookones
+2026-03-11 06:17:56 [INFO] Line 12: ENTER 
+2026-03-11 06:17:56 [INFO] Line 13: DELAY 5000
+2026-03-11 06:18:01 [INFO] Line 14: STRING fastfetch
+2026-03-11 06:18:01 [INFO] Line 15: ENTER 
+2026-03-11 06:18:01 [INFO] Line 16: DELAY 3000
+2026-03-11 06:18:04 [INFO] Line 17: STRING nmcli device wifi list
+2026-03-11 06:18:05 [INFO] Line 18: ENTER 
+2026-03-11 06:18:05 [INFO] --- Payload complete: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-11 11:07:17 [INFO] --- Payload start: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-11 11:07:17 [INFO] Line 5: DELAY 500
+2026-03-11 11:07:18 [INFO] Line 6: CTRL ALT t
+2026-03-11 11:07:18 [INFO] Line 7: DELAY 3000
+2026-03-11 11:07:21 [INFO] Line 8: STRING ssh -i ~/.ssh/pizero_key transient@192.168.1.132
+2026-03-11 11:07:22 [INFO] Line 9: ENTER 
+2026-03-11 11:07:22 [INFO] Line 10: DELAY 2000
+2026-03-11 11:07:24 [INFO] Line 11: STRING realshookones
+2026-03-11 11:07:24 [INFO] Line 12: ENTER 
+2026-03-11 11:07:24 [INFO] Line 13: DELAY 5000
+2026-03-11 18:32:56 [INFO] Line 14: STRING fastfetch
+2026-03-11 18:32:56 [INFO] Line 15: ENTER 
+2026-03-11 18:32:56 [INFO] Line 16: DELAY 3000
+2026-03-11 18:32:59 [INFO] Line 17: STRING nmcli device wifi list
+2026-03-11 18:32:59 [INFO] Line 18: ENTER 
+2026-03-11 18:32:59 [INFO] --- Payload complete: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-11 20:29:29 [INFO] --- Payload start: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-11 20:29:29 [INFO] Line 5: DELAY 500
+2026-03-11 20:29:30 [INFO] Line 6: CTRL ALT t
+2026-03-11 20:29:30 [INFO] Line 7: DELAY 3000
+2026-03-11 20:29:33 [INFO] Line 8: STRING ssh -i ~/.ssh/pizero_key transient@192.168.1.132
+2026-03-11 20:29:34 [INFO] Line 9: ENTER 
+2026-03-11 20:29:34 [INFO] Line 10: DELAY 2000
+2026-03-11 20:29:36 [INFO] Line 11: STRING realshookones
+2026-03-11 20:29:36 [INFO] Line 12: ENTER 
+2026-03-11 20:29:36 [INFO] Line 13: DELAY 5000
+2026-03-12 10:28:56 [INFO] Line 14: STRING fastfetch
+2026-03-12 10:28:56 [INFO] Line 15: ENTER 
+2026-03-12 10:28:56 [INFO] Line 16: DELAY 3000
+2026-03-12 10:28:59 [INFO] Line 17: STRING nmcli device wifi list
+2026-03-12 10:29:00 [INFO] Line 18: ENTER 
+2026-03-12 10:29:00 [INFO] --- Payload complete: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-12 10:51:31 [INFO] --- Payload start: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-12 10:51:31 [INFO] Line 5: DELAY 500
+2026-03-12 10:51:32 [INFO] Line 6: CTRL ALT t
+2026-03-12 10:51:32 [INFO] Line 7: DELAY 3000
+2026-03-12 10:51:35 [INFO] Line 8: STRING ssh -i ~/.ssh/pizero_key transient@192.168.1.132
+2026-03-12 10:51:36 [INFO] Line 9: ENTER 
+2026-03-12 10:51:36 [INFO] Line 10: DELAY 2000
+2026-03-12 10:51:38 [INFO] Line 11: STRING realshookones
+2026-03-12 10:51:38 [INFO] Line 12: ENTER 
+2026-03-12 10:51:38 [INFO] Line 13: DELAY 5000
+2026-03-12 11:01:30 [INFO] Line 14: STRING fastfetch
+2026-03-12 11:01:30 [INFO] Line 15: ENTER 
+2026-03-12 11:01:30 [INFO] Line 16: DELAY 3000
+2026-03-12 11:01:33 [INFO] Line 17: STRING nmcli device wifi list
+2026-03-12 11:01:33 [INFO] Line 18: ENTER 
+2026-03-12 11:01:33 [INFO] --- Payload complete: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-12 11:18:42 [INFO] --- Payload start: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-12 11:18:42 [INFO] Line 5: DELAY 500
+2026-03-12 11:18:42 [INFO] Line 6: CTRL ALT t
+2026-03-12 11:18:42 [INFO] Line 7: DELAY 3000
+2026-03-12 11:18:45 [INFO] Line 8: STRING ssh -i ~/.ssh/pizero_key transient@192.168.1.132
+2026-03-12 11:18:46 [INFO] Line 9: ENTER 
+2026-03-12 11:18:46 [INFO] Line 10: DELAY 2000
+2026-03-12 11:18:48 [INFO] Line 11: STRING realshookones
+2026-03-12 11:18:48 [INFO] Line 12: ENTER 
+2026-03-12 11:18:48 [INFO] Line 13: DELAY 5000
+2026-03-12 11:51:47 [INFO] Line 14: STRING fastfetch
+2026-03-12 11:51:47 [INFO] Line 15: ENTER 
+2026-03-12 11:51:47 [INFO] Line 16: DELAY 3000
+2026-03-12 11:51:50 [INFO] Line 17: STRING nmcli device wifi list
+2026-03-12 11:51:51 [INFO] Line 18: ENTER 
+2026-03-12 11:51:51 [INFO] --- Payload complete: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-12 11:54:48 [INFO] --- Payload start: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-12 11:54:48 [INFO] Line 5: DELAY 500
+2026-03-12 11:54:48 [INFO] Line 6: CTRL ALT t
+2026-03-12 11:54:48 [INFO] Line 7: DELAY 3000
+2026-03-12 11:54:51 [INFO] Line 8: STRING ssh -i ~/.ssh/pizero_key transient@192.168.1.132
+2026-03-12 11:54:52 [INFO] Line 9: ENTER 
+2026-03-12 11:54:52 [INFO] Line 10: DELAY 2000
+2026-03-12 11:54:54 [INFO] Line 11: STRING realshookones
+2026-03-12 11:54:55 [INFO] Line 12: ENTER 
+2026-03-12 11:54:55 [INFO] Line 13: DELAY 5000
+2026-03-12 11:55:11 [INFO] Line 14: STRING fastfetch
+2026-03-12 11:55:11 [INFO] Line 15: ENTER 
+2026-03-12 11:55:11 [INFO] Line 16: DELAY 3000
+2026-03-12 11:55:14 [INFO] Line 17: STRING nmcli device wifi list
+2026-03-12 11:55:15 [INFO] Line 18: ENTER 
+2026-03-12 11:55:15 [INFO] Line 19: STRING tcpdump -i wlan0
+2026-03-12 11:55:15 [INFO] Line 20: ENTER 
+2026-03-12 11:55:15 [INFO] --- Payload complete: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-12 11:56:43 [INFO] --- Payload start: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-12 11:56:43 [INFO] Line 5: DELAY 500
+2026-03-12 11:56:43 [INFO] Line 6: CTRL ALT t
+2026-03-12 11:56:43 [INFO] Line 7: DELAY 3000
+2026-03-12 11:56:46 [INFO] Line 8: STRING ssh -i ~/.ssh/pizero_key transient@192.168.1.132
+2026-03-12 11:56:47 [INFO] Line 9: ENTER 
+2026-03-12 11:56:47 [INFO] Line 10: DELAY 2000
+2026-03-12 11:56:49 [INFO] Line 11: STRING realshookones
+2026-03-12 11:56:50 [INFO] Line 12: ENTER 
+2026-03-12 11:56:50 [INFO] Line 13: DELAY 5000
+2026-03-12 11:57:06 [INFO] Line 14: STRING fastfetch
+2026-03-12 11:57:06 [INFO] Line 15: ENTER 
+2026-03-12 11:57:06 [INFO] Line 16: DELAY 3000
+2026-03-12 11:57:09 [INFO] Line 17: STRING nmcli device wifi list
+2026-03-12 11:57:10 [INFO] Line 18: ENTER 
+2026-03-12 11:57:10 [INFO] Line 19: DELAY 3000
+2026-03-12 11:57:13 [INFO] Line 20: STRING tcpdump -i wlan0
+2026-03-12 11:57:13 [INFO] Line 21: ENTER 
+2026-03-12 11:57:13 [INFO] --- Payload complete: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-12 11:58:21 [INFO] --- Payload start: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-12 11:58:21 [INFO] Line 5: DELAY 500
+2026-03-12 11:58:21 [INFO] Line 6: CTRL ALT t
+2026-03-12 11:58:22 [INFO] Line 7: DELAY 3000
+2026-03-12 11:58:25 [INFO] Line 8: STRING ssh -i ~/.ssh/pizero_key transient@192.168.1.132
+2026-03-12 11:58:25 [INFO] Line 9: ENTER 
+2026-03-12 11:58:26 [INFO] Line 10: DELAY 2000
+2026-03-12 11:58:28 [INFO] Line 11: STRING realshookones
+2026-03-12 11:58:28 [INFO] Line 12: ENTER 
+2026-03-12 11:58:28 [INFO] Line 13: DELAY 5000
+2026-03-12 11:58:44 [INFO] Line 14: STRING fastfetch
+2026-03-12 11:58:45 [INFO] Line 15: ENTER 
+2026-03-12 11:58:45 [INFO] Line 16: DELAY 3000
+2026-03-12 11:58:48 [INFO] Line 17: STRING nmcli device wifi list
+2026-03-12 11:58:48 [INFO] Line 18: ENTER 
+2026-03-12 11:58:48 [INFO] Line 19: DELAY 3000
+2026-03-12 11:58:51 [INFO] Line 20: STRING sudo tcpdump -i wlan0
+2026-03-12 11:58:52 [INFO] Line 21: ENTER 
+2026-03-12 11:58:52 [INFO] --- Payload complete: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-12 16:16:48 [INFO] --- Payload start: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-12 16:16:48 [INFO] Line 5: DELAY 500
+2026-03-12 16:16:49 [INFO] Line 6: CTRL ALT t
+2026-03-12 16:16:49 [INFO] Line 7: DELAY 3000
+2026-03-12 16:16:52 [INFO] Line 8: STRING ssh -i ~/.ssh/pizero_key transient@192.168.1.132
+2026-03-12 16:16:53 [INFO] Line 9: ENTER 
+2026-03-12 16:16:53 [INFO] Line 10: DELAY 2000
+2026-03-12 16:16:55 [INFO] Line 11: STRING realshookones
+2026-03-12 16:16:55 [INFO] Line 12: ENTER 
+2026-03-12 16:16:55 [INFO] Line 13: DELAY 5000
+2026-03-12 16:17:00 [INFO] Line 14: STRING fastfetch
+2026-03-12 16:17:00 [INFO] Line 15: ENTER 
+2026-03-12 16:17:00 [INFO] Line 16: DELAY 3000
+2026-03-12 16:17:03 [INFO] Line 17: STRING nmcli device wifi list
+2026-03-12 16:17:03 [INFO] Line 18: ENTER 
+2026-03-12 16:17:04 [INFO] Line 19: DELAY 3000
+2026-03-12 16:17:07 [INFO] Line 20: STRING sudo tcpdump -i wlan0
+2026-03-12 16:17:07 [INFO] Line 21: ENTER 
+2026-03-12 16:17:07 [INFO] --- Payload complete: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-13 05:42:25 [INFO] --- Payload start: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-13 05:42:25 [INFO] Line 5: DELAY 500
+2026-03-13 05:42:25 [INFO] Line 6: CTRL ALT t
+2026-03-13 05:42:25 [INFO] Line 7: DELAY 3000
+2026-03-13 05:42:28 [INFO] Line 8: STRING ssh -i ~/.ssh/pizero_key transient@192.168.1.132
+2026-03-13 05:42:29 [INFO] Line 9: ENTER 
+2026-03-13 05:42:29 [INFO] Line 10: DELAY 2000
+2026-03-13 05:42:31 [INFO] Line 11: STRING realshookones
+2026-03-13 05:42:32 [INFO] Line 12: ENTER 
+2026-03-13 05:42:32 [INFO] Line 13: DELAY 5000
+2026-03-13 05:42:37 [INFO] Line 14: STRING fastfetch
+2026-03-13 05:42:37 [INFO] Line 15: ENTER 
+2026-03-13 05:42:37 [INFO] Line 16: DELAY 3000
+2026-03-13 05:42:40 [INFO] Line 17: STRING nmcli device wifi list
+2026-03-13 05:42:40 [INFO] Line 18: ENTER 
+2026-03-13 05:42:40 [INFO] Line 19: DELAY 3000
+2026-03-13 05:42:43 [INFO] Line 20: STRING sudo tcpdump -i wlan0
+2026-03-13 05:42:44 [INFO] Line 21: ENTER 
+2026-03-13 05:42:44 [INFO] Line 22: DELAY 1000
+2026-03-13 05:42:45 [INFO] Line 23: CTRL ALT t
+2026-03-13 05:42:45 [INFO] Line 24: ENTER 
+2026-03-13 05:42:45 [INFO] Line 25: DELAY 4000
+2026-03-13 05:42:49 [INFO] Line 26: STRING ssh -i ~/.ssh/pizero_key transient@192.168.1.132
+2026-03-13 05:42:50 [INFO] Line 27: DELAY 3000
+2026-03-13 05:42:53 [INFO] Line 28: STRING tshark -i wlan0
+2026-03-13 05:42:53 [INFO] Line 29: ENTER 
+2026-03-13 05:42:53 [INFO] --- Payload complete: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-13 05:44:54 [INFO] --- Payload start: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-13 05:44:54 [INFO] Line 5: DELAY 500
+2026-03-13 05:44:55 [INFO] Line 6: CTRL ALT t
+2026-03-13 05:44:55 [INFO] Line 7: DELAY 3000
+2026-03-13 05:44:58 [INFO] Line 8: STRING ssh -i ~/.ssh/pizero_key transient@192.168.1.132
+2026-03-13 05:44:59 [INFO] Line 9: ENTER 
+2026-03-13 05:44:59 [INFO] Line 10: DELAY 2000
+2026-03-13 05:45:01 [INFO] Line 11: STRING realshookones
+2026-03-13 05:45:01 [INFO] Line 12: ENTER 
+2026-03-13 05:45:01 [INFO] Line 13: DELAY 5000
+2026-03-13 05:45:06 [INFO] Line 14: STRING fastfetch
+2026-03-13 05:45:06 [INFO] Line 15: ENTER 
+2026-03-13 05:45:06 [INFO] Line 16: DELAY 3000
+2026-03-13 05:45:09 [INFO] Line 17: STRING nmcli device wifi list
+2026-03-13 05:45:10 [INFO] Line 18: ENTER 
+2026-03-13 05:45:10 [INFO] Line 19: DELAY 3000
+2026-03-13 05:45:13 [INFO] Line 20: STRING sudo tcpdump -i wlan0
+2026-03-13 05:45:13 [INFO] Line 21: ENTER 
+2026-03-13 05:45:13 [INFO] Line 22: DELAY 1000
+2026-03-13 05:45:14 [INFO] Line 23: CTRL ALT t
+2026-03-13 05:45:14 [INFO] Line 24: ENTER 
+2026-03-13 05:45:14 [INFO] Line 25: DELAY 4000
+2026-03-13 05:45:18 [INFO] Line 26: STRING ssh -i ~/.ssh/pizero_key transient@192.168.1.132
+2026-03-13 05:45:19 [INFO] Line 27: DELAY 3000
+2026-03-13 05:45:22 [INFO] Line 28: STRING tshark -i wlan0
+2026-03-13 05:45:23 [INFO] Line 29: ENTER 
+2026-03-13 05:45:23 [INFO] --- Payload complete: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-13 05:51:50 [INFO] --- Payload start: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-13 05:51:50 [INFO] Line 5: DELAY 500
+2026-03-13 05:51:50 [INFO] Line 6: CTRL ALT t
+2026-03-13 05:51:50 [INFO] Line 7: DELAY 3000
+2026-03-13 05:51:53 [INFO] Line 8: STRING ssh -i ~/.ssh/pizero_key transient@192.168.1.132
+2026-03-13 05:51:54 [INFO] Line 9: ENTER 
+2026-03-13 05:51:54 [INFO] Line 10: DELAY 2000
+2026-03-13 05:51:56 [INFO] Line 11: STRING realshookones
+2026-03-13 05:51:57 [INFO] Line 12: ENTER 
+2026-03-13 05:51:57 [INFO] Line 13: DELAY 5000
+2026-03-13 05:52:02 [INFO] Line 14: STRING fastfetch
+2026-03-13 05:52:02 [INFO] Line 15: ENTER 
+2026-03-13 05:52:02 [INFO] Line 16: DELAY 3000
+2026-03-13 05:52:05 [INFO] Line 17: STRING nmcli device wifi list
+2026-03-13 05:52:05 [INFO] Line 18: ENTER 
+2026-03-13 05:52:05 [INFO] Line 19: DELAY 3000
+2026-03-13 05:52:08 [INFO] Line 20: STRING sudo tcpdump -i wlan0
+2026-03-13 05:52:09 [INFO] Line 21: ENTER 
+2026-03-13 05:52:09 [INFO] Line 22: DELAY 1000
+2026-03-13 05:52:10 [INFO] Line 23: CTRL ALT t
+2026-03-13 05:52:10 [INFO] Line 24: DELAY 4000
+2026-03-13 05:52:14 [INFO] Line 25: STRING ssh -i ~/.ssh/pizero_key transient@192.168.1.132
+2026-03-13 05:52:15 [INFO] Line 26: ENTER 
+2026-03-13 05:52:15 [INFO] Line 27: DELAY 3000
+2026-03-13 05:52:18 [INFO] Line 28: STRING tshark -i wlan0
+2026-03-13 05:52:18 [INFO] Line 29: ENTER 
+2026-03-13 05:52:18 [INFO] --- Payload complete: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-13 05:57:24 [INFO] --- Payload start: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-13 05:57:24 [INFO] Line 5: DELAY 500
+2026-03-13 05:57:24 [INFO] Line 6: CTRL ALT t
+2026-03-13 05:57:24 [INFO] Line 7: DELAY 3000
+2026-03-13 05:57:27 [INFO] Line 8: STRING ssh -i ~/.ssh/pizero_key transient@192.168.1.132
+2026-03-13 05:57:28 [INFO] Line 9: ENTER 
+2026-03-13 05:57:28 [INFO] Line 10: DELAY 2000
+2026-03-13 05:57:30 [INFO] Line 11: STRING realshookones
+2026-03-13 05:57:31 [INFO] Line 12: ENTER 
+2026-03-13 05:57:31 [INFO] Line 13: DELAY 5000
+2026-03-13 05:57:36 [INFO] Line 14: STRING fastfetch
+2026-03-13 05:57:36 [INFO] Line 15: ENTER 
+2026-03-13 05:57:36 [INFO] Line 16: DELAY 3000
+2026-03-13 05:57:39 [INFO] Line 17: STRING nmcli device wifi list
+2026-03-13 05:57:39 [INFO] Line 18: ENTER 
+2026-03-13 05:57:39 [INFO] Line 19: DELAY 3000
+2026-03-13 05:57:42 [INFO] Line 20: STRING sudo tcpdump -i wlan0
+2026-03-13 05:57:43 [INFO] Line 21: ENTER 
+2026-03-13 05:57:43 [INFO] Line 22: DELAY 1000
+2026-03-13 05:57:44 [INFO] Line 23: CTRL ALT t
+2026-03-13 05:57:44 [INFO] Line 24: DELAY 4000
+2026-03-13 05:57:48 [INFO] Line 25: STRING ssh -i ~/.ssh/pizero_key transient@192.168.1.132
+2026-03-13 05:57:49 [INFO] Line 26: ENTER 
+2026-03-13 05:57:49 [INFO] Line 27: DELAY 3000
+2026-03-13 05:57:52 [INFO] Line 28: STRING realshookones
+2026-03-13 05:57:52 [INFO] Line 29: ENTER 
+2026-03-13 05:57:52 [INFO] Line 30: DELAY 5000
+2026-03-13 05:57:57 [INFO] Line 31: STRING tshark -i wlan0
+2026-03-13 05:57:57 [INFO] Line 32: ENTER 
+2026-03-13 05:57:57 [INFO] --- Payload complete: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-13 10:10:56 [INFO] --- Payload start: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-13 10:10:56 [INFO] Line 5: DELAY 500
+2026-03-13 10:10:56 [INFO] Line 6: CTRL ALT t
+2026-03-13 10:10:56 [INFO] Line 7: DELAY 3000
+2026-03-13 10:10:59 [INFO] Line 8: STRING ssh -i ~/.ssh/pizero_key transient@192.168.1.132
+2026-03-13 10:11:00 [INFO] Line 9: ENTER 
+2026-03-13 10:11:00 [INFO] Line 10: DELAY 2000
+2026-03-13 10:11:02 [INFO] Line 11: STRING realshookones
+2026-03-13 10:11:02 [INFO] Line 12: ENTER 
+2026-03-13 10:11:02 [INFO] Line 13: DELAY 5000
+2026-03-13 10:11:07 [INFO] Line 14: STRING fastfetch
+2026-03-13 10:11:08 [INFO] Line 15: ENTER 
+2026-03-13 10:11:08 [INFO] Line 16: DELAY 3000
+2026-03-13 10:11:11 [INFO] Line 17: STRING nmcli device wifi list
+2026-03-13 10:11:11 [INFO] Line 18: ENTER 
+2026-03-13 10:11:11 [INFO] Line 19: DELAY 3000
+2026-03-13 10:11:14 [INFO] Line 20: STRING sudo tcpdump -i wlan0
+2026-03-13 10:11:14 [INFO] Line 21: ENTER 
+2026-03-13 10:11:14 [INFO] Line 22: DELAY 1000
+2026-03-13 10:11:15 [INFO] Line 23: CTRL ALT t
+2026-03-13 10:11:15 [INFO] Line 24: DELAY 4000
+2026-03-13 10:11:20 [INFO] Line 25: STRING ssh -i ~/.ssh/pizero_key transient@192.168.1.132
+2026-03-13 10:11:20 [INFO] Line 26: ENTER 
+2026-03-13 10:11:20 [INFO] Line 27: DELAY 3000
+2026-03-13 10:11:23 [INFO] Line 28: STRING realshookones
+2026-03-13 10:11:24 [INFO] Line 29: ENTER 
+2026-03-13 10:11:24 [INFO] Line 30: DELAY 5000
+2026-03-13 10:11:29 [INFO] Line 31: STRING tshark -i wlan0
+2026-03-13 10:11:29 [INFO] Line 32: ENTER 
+2026-03-13 10:11:29 [INFO] --- Payload complete: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-14 03:33:15 [INFO] --- Payload start: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-14 03:33:15 [INFO] Line 5: DELAY 500
+2026-03-14 03:33:16 [INFO] Line 6: CTRL ALT t
+2026-03-14 03:33:16 [INFO] Line 7: DELAY 3000
+2026-03-14 03:33:19 [INFO] Line 8: STRING ssh -i ~/.ssh/pizero_key transient@192.168.1.132
+2026-03-14 03:33:20 [INFO] Line 9: ENTER 
+2026-03-14 03:33:20 [INFO] Line 10: DELAY 2000
+2026-03-14 03:33:22 [INFO] Line 11: STRING realshookones
+2026-03-14 03:33:22 [INFO] Line 12: ENTER 
+2026-03-14 03:33:22 [INFO] Line 13: DELAY 5000
+2026-03-14 03:33:27 [INFO] Line 14: STRING fastfetch
+2026-03-14 03:33:27 [INFO] Line 15: ENTER 
+2026-03-14 03:33:27 [INFO] Line 16: DELAY 3000
+2026-03-14 03:33:30 [INFO] Line 17: STRING nmcli device wifi list
+2026-03-14 03:33:31 [INFO] Line 18: ENTER 
+2026-03-14 03:33:31 [INFO] Line 19: DELAY 3000
+2026-03-14 03:33:34 [INFO] Line 20: STRING sudo tcpdump -i wlan0
+2026-03-14 03:33:34 [INFO] Line 21: ENTER 
+2026-03-14 03:33:34 [INFO] Line 22: DELAY 1000
+2026-03-14 03:33:35 [INFO] Line 23: CTRL ALT t
+2026-03-14 03:33:35 [INFO] Line 24: DELAY 4000
+2026-03-14 03:33:39 [INFO] Line 25: STRING ssh -i ~/.ssh/pizero_key transient@192.168.1.132
+2026-03-14 03:33:40 [INFO] Line 26: ENTER 
+2026-03-14 03:33:40 [INFO] Line 27: DELAY 3000
+2026-03-14 03:33:43 [INFO] Line 28: STRING realshookones
+2026-03-14 03:33:43 [INFO] Line 29: ENTER 
+2026-03-14 03:33:44 [INFO] Line 30: DELAY 5000
+2026-03-14 03:33:49 [INFO] Line 31: STRING tshark -i wlan0
+2026-03-14 03:33:49 [INFO] Line 32: ENTER 
+2026-03-14 03:33:49 [INFO] --- Payload complete: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-14 05:16:06 [INFO] --- Payload start: /home/transient/pi-badusb/test.payload.ds ---
+2026-03-14 05:16:06 [INFO] Line 5: DELAY 500
+2026-03-14 05:16:06 [INFO] Line 6: CTRL ALT t
+2026-03-14 05:16:06 [INFO] Line 7: DELAY 3000
+2026-03-14 05:16:09 [INFO] Line 8: STRING ssh -i ~/.ssh/pizero_key transient@192.168.1.132
+2026-03-14 05:16:10 [INFO] Line 9: ENTER 
+2026-03-14 05:16:10 [INFO] Line 10: DELAY 2000
+2026-03-14 05:16:12 [INFO] Line 11: STRING realshookones
+2026-03-14 05:16:13 [INFO] Line 12: ENTER 
+2026-03-14 05:16:13 [INFO] Line 13: DELAY 5000
+2026-03-14 05:16:18 [INFO] Line 14: STRING fastfetch
+2026-03-14 05:16:18 [INFO] Line 15: ENTER 
+2026-03-14 05:16:18 [INFO] Line 16: DELAY 3000
+2026-03-14 05:16:21 [INFO] Line 17: STRING nmcli device wifi list
+2026-03-14 05:16:21 [INFO] Line 18: ENTER 
+2026-03-14 05:16:21 [INFO] Line 19: DELAY 3000
+2026-03-14 05:16:24 [INFO] Line 20: STRING sudo tcpdump -i wlan0
+2026-03-14 05:16:25 [INFO] Line 21: ENTER 
+2026-03-14 05:16:25 [INFO] Line 22: DELAY 1000
+2026-03-14 05:16:26 [INFO] Line 23: CTRL ALT t
+2026-03-14 05:16:26 [INFO] Line 24: DELAY 4000
+2026-03-14 05:16:30 [INFO] Line 25: STRING ssh -i ~/.ssh/pizero_key transient@192.168.1.132
+2026-03-14 05:16:31 [INFO] Line 26: ENTER 
+2026-03-14 05:16:31 [INFO] Line 27: DELAY 3000
+2026-03-14 05:16:34 [INFO] Line 28: STRING realshookones
+2026-03-14 05:16:34 [INFO] Line 29: ENTER 
+2026-03-14 05:16:34 [INFO] Line 30: DELAY 5000
+2026-03-14 05:16:39 [INFO] Line 31: STRING tshark -i wlan0
+2026-03-14 05:16:39 [INFO] Line 32: ENTER 
+2026-03-14 05:16:39 [INFO] --- Payload complete: /home/transient/pi-badusb/test.payload.ds ---
