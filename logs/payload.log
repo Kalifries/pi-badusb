@@ -134,3 +134,10 @@
 [2026-03-14 10:05:35] SUCCESS: Network Scan completed in 0.02s
 [2026-03-14 10:05:45] EXECUTE: System Recon (recon.py)
 [2026-03-14 10:05:45] SUCCESS: System Recon completed in 0.08s
+[2026-03-14 15:11:47] MENU STARTED - web mode - safe mode active
+[2026-03-14 15:11:47] DISCOVERED 2 payload(s)
+[2026-03-14 15:13:50] EXECUTE: Network Scan (net_scan.py)
+[2026-03-14 15:13:50] SUCCESS: Network Scan completed in 0.02s
+[2026-03-14 15:14:05] EXECUTE: System Recon (recon.py)
+[2026-03-14 15:14:05] SUCCESS: System Recon completed in 0.08s
+[2026-03-14 15:21:08] MENU SHUTDOWN
