@@ -1,6 +1,6 @@
-2026-03-14 09:02:42 === autorun.sh started ===
-2026-03-14 09:02:52 Boot settle complete
-2026-03-14 09:02:52 Running gadget_setup.sh...
+2026-03-14 19:02:32 === autorun.sh started ===
+2026-03-14 19:02:42 Boot settle complete
+2026-03-14 19:02:42 Running gadget_setup.sh...
 
 === Gadget Setup Complete ===
 
@@ -12,15 +12,15 @@ To start the payload menu:
 
 Then open in browser:
   http://192.168.1.132:8080
-2026-03-14 09:02:52 /dev/hidg0 is ready
-2026-03-14 09:02:52 Waiting for USB host connection...
-2026-03-14 09:02:54 USB host detected!
-2026-03-14 09:02:57 Running payload: /home/transient/pi-badusb/test.payload.ds
+2026-03-14 19:02:42 /dev/hidg0 is ready
+2026-03-14 19:02:42 Waiting for USB host connection...
+2026-03-14 19:02:44 USB host detected!
+2026-03-14 19:02:47 Running payload: /home/transient/pi-badusb/test.payload.ds
 Payload executed successfully. Log: /home/transient/pi-badusb/ducky.log
-2026-03-14 09:03:31 === autorun.sh finished ===
-2026-03-14 10:21:07 === autorun.sh started ===
-2026-03-14 10:21:17 Boot settle complete
-2026-03-14 10:21:17 Running gadget_setup.sh...
+2026-03-14 19:03:21 === autorun.sh finished ===
+2026-03-14 20:05:48 === autorun.sh started ===
+2026-03-14 20:05:58 Boot settle complete
+2026-03-14 20:05:59 Running gadget_setup.sh...
 
 === Gadget Setup Complete ===
 
@@ -32,15 +32,15 @@ To start the payload menu:
 
 Then open in browser:
   http://192.168.1.132:8080
-2026-03-14 10:21:17 /dev/hidg0 is ready
-2026-03-14 10:21:17 Waiting for USB host connection...
-2026-03-14 10:21:19 USB host detected!
-2026-03-14 10:21:22 Running payload: /home/transient/pi-badusb/test.payload.ds
+2026-03-14 20:05:59 /dev/hidg0 is ready
+2026-03-14 20:05:59 Waiting for USB host connection...
+2026-03-14 20:06:01 USB host detected!
+2026-03-14 20:06:04 Running payload: /home/transient/pi-badusb/test.payload.ds
 Payload executed successfully. Log: /home/transient/pi-badusb/ducky.log
-2026-03-14 10:21:56 === autorun.sh finished ===
-2026-03-14 11:50:40 === autorun.sh started ===
-2026-03-14 11:50:50 Boot settle complete
-2026-03-14 11:50:50 Running gadget_setup.sh...
+2026-03-14 20:06:37 === autorun.sh finished ===
+2026-03-15 00:32:16 === autorun.sh started ===
+2026-03-15 00:32:26 Boot settle complete
+2026-03-15 00:32:26 Running gadget_setup.sh...
 
 === Gadget Setup Complete ===
 
@@ -52,9 +52,29 @@ To start the payload menu:
 
 Then open in browser:
   http://192.168.1.132:8080
-2026-03-14 11:50:50 /dev/hidg0 is ready
-2026-03-14 11:50:50 Waiting for USB host connection...
-2026-03-14 11:50:52 USB host detected!
-2026-03-14 11:50:55 Running payload: /home/transient/pi-badusb/test.payload.ds
+2026-03-15 00:32:26 /dev/hidg0 is ready
+2026-03-15 00:32:26 Waiting for USB host connection...
+2026-03-15 00:32:28 USB host detected!
+2026-03-15 00:32:31 Running payload: /home/transient/pi-badusb/test.payload.ds
 Payload executed successfully. Log: /home/transient/pi-badusb/ducky.log
-2026-03-14 11:51:29 === autorun.sh finished ===
+2026-03-15 00:33:05 === autorun.sh finished ===
+2026-03-15 04:01:51 === autorun.sh started ===
+2026-03-15 04:02:01 Boot settle complete
+2026-03-15 04:02:01 Running gadget_setup.sh...
+
+=== Gadget Setup Complete ===
+
+[+] HID keyboard ready: /dev/hidg0
+[+] WiFi IP: 192.168.1.132
+
+To start the payload menu:
+  sudo python3 ~/badusb_menu/payload_menu.py
+
+Then open in browser:
+  http://192.168.1.132:8080
+2026-03-15 04:02:01 /dev/hidg0 is ready
+2026-03-15 04:02:01 Waiting for USB host connection...
+2026-03-15 04:02:03 USB host detected!
+2026-03-15 04:02:06 Running payload: /home/transient/pi-badusb/test.payload.ds
+Payload executed successfully. Log: /home/transient/pi-badusb/ducky.log
+2026-03-15 04:02:40 === autorun.sh finished ===
