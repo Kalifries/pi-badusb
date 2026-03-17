@@ -1,7 +1,5 @@
 # pi-badusb
-   ------------------------------------------------------------------+++
-   ||| Raspberry Pi Zero 2 W badusb setup with pentesting suite.     |||
-   ------------------------------------------------------------------+++
+#                      --Raspberry Pi Zero 2 BadUSB Project--
 
  - Just run 'install_badusb.sh' which will setup the pi and automate tasks to create your badusb. The badusb has a ducky script parser so you can write in actual ducky script and create payloads. Once you create a payload you can load it into the web UI for easy access or just have it run once the badusb is plugged in.
 
