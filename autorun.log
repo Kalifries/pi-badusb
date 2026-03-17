@@ -1,0 +1,164 @@
+2026-03-16 07:03:44 === autorun.sh started ===
+2026-03-16 07:03:54 Boot settle complete
+2026-03-16 07:03:54 Running gadget_setup.sh...
+modprobe: ERROR: could not insert 'libcomposite': Operation not permitted
+mkdir: cannot create directory ‘/sys/kernel/config/usb_gadget’: Permission denied
+/home/transient/pi-badusb/gadget_setup.sh: line 33: cd: /sys/kernel/config/usb_gadget/badusb: No such file or directory
+
+=== Gadget Setup Complete ===
+
+[!] WARNING: /dev/hidg0 not found
+[+] WiFi IP: 192.168.1.132
+
+To start the payload menu:
+  sudo python3 ~/badusb_menu/payload_menu.py
+
+Then open in browser:
+  http://192.168.1.132:8080
+2026-03-16 07:03:54 Waiting for /dev/hidg0... (attempt 1)
+2026-03-16 07:03:56 Waiting for /dev/hidg0... (attempt 2)
+2026-03-16 07:03:58 Waiting for /dev/hidg0... (attempt 3)
+2026-03-16 07:04:00 Waiting for /dev/hidg0... (attempt 4)
+2026-03-16 07:04:02 Waiting for /dev/hidg0... (attempt 5)
+2026-03-16 07:04:04 Waiting for /dev/hidg0... (attempt 6)
+2026-03-16 07:04:06 Waiting for /dev/hidg0... (attempt 7)
+2026-03-16 07:04:08 Waiting for /dev/hidg0... (attempt 8)
+2026-03-16 07:04:10 Waiting for /dev/hidg0... (attempt 9)
+2026-03-16 07:04:12 Waiting for /dev/hidg0... (attempt 10)
+2026-03-16 07:04:14 Waiting for /dev/hidg0... (attempt 11)
+2026-03-16 07:04:16 Waiting for /dev/hidg0... (attempt 12)
+2026-03-16 07:04:18 Waiting for /dev/hidg0... (attempt 13)
+2026-03-16 07:04:20 Waiting for /dev/hidg0... (attempt 14)
+2026-03-16 07:04:22 Waiting for /dev/hidg0... (attempt 15)
+2026-03-16 07:04:24 Waiting for /dev/hidg0... (attempt 16)
+2026-03-16 07:04:26 Waiting for /dev/hidg0... (attempt 17)
+2026-03-16 07:04:28 Waiting for /dev/hidg0... (attempt 18)
+2026-03-16 07:04:30 Waiting for /dev/hidg0... (attempt 19)
+2026-03-16 07:04:32 Waiting for /dev/hidg0... (attempt 20)
+2026-03-16 07:04:34 Waiting for /dev/hidg0... (attempt 21)
+2026-03-16 07:04:36 Waiting for /dev/hidg0... (attempt 22)
+2026-03-16 07:04:38 Waiting for /dev/hidg0... (attempt 23)
+2026-03-16 07:04:40 Waiting for /dev/hidg0... (attempt 24)
+2026-03-16 07:04:42 Waiting for /dev/hidg0... (attempt 25)
+2026-03-16 07:04:44 Waiting for /dev/hidg0... (attempt 26)
+2026-03-16 07:04:46 Waiting for /dev/hidg0... (attempt 27)
+2026-03-16 07:04:48 Waiting for /dev/hidg0... (attempt 28)
+2026-03-16 07:04:50 Waiting for /dev/hidg0... (attempt 29)
+2026-03-16 07:04:52 Waiting for /dev/hidg0... (attempt 30)
+2026-03-16 07:05:22 === autorun.sh started ===
+2026-03-16 17:24:50 === autorun.sh started ===
+2026-03-16 17:25:00 Boot settle complete
+2026-03-16 17:25:00 Running gadget_setup.sh...
+
+=== Gadget Setup Complete ===
+
+[+] HID keyboard ready: /dev/hidg0
+[+] WiFi IP: 192.168.1.132
+
+To start the payload menu:
+  sudo python3 ~/badusb_menu/payload_menu.py
+
+Then open in browser:
+  http://192.168.1.132:8080
+2026-03-16 17:25:00 /dev/hidg0 is ready
+2026-03-16 17:25:00 Waiting for USB host connection...
+2026-03-16 19:34:01 === autorun.sh started ===
+2026-03-16 19:34:11 Boot settle complete
+2026-03-16 19:34:11 Running gadget_setup.sh...
+
+=== Gadget Setup Complete ===
+
+[+] HID keyboard ready: /dev/hidg0
+[+] WiFi IP: 192.168.1.132
+
+To start the payload menu:
+  sudo python3 ~/badusb_menu/payload_menu.py
+
+Then open in browser:
+  http://192.168.1.132:8080
+2026-03-16 19:34:11 /dev/hidg0 is ready
+2026-03-16 19:34:11 Waiting for USB host connection...
+2026-03-16 19:34:13 USB host detected!
+2026-03-16 19:34:16 Running payload: /home/transient/pi-badusb/test.payload.ds
+Payload executed successfully. Log: /home/transient/pi-badusb/ducky.log
+2026-03-17 02:41:04 === autorun.sh finished ===
+2026-03-17 03:01:29 === autorun.sh started ===
+2026-03-17 03:01:39 Boot settle complete
+2026-03-17 03:01:39 Running gadget_setup.sh...
+
+=== Gadget Setup Complete ===
+
+[+] HID keyboard ready: /dev/hidg0
+[+] WiFi IP: 192.168.1.132
+
+To start the payload menu:
+  sudo python3 ~/badusb_menu/payload_menu.py
+
+Then open in browser:
+  http://192.168.1.132:8080
+2026-03-17 03:01:39 /dev/hidg0 is ready
+2026-03-17 03:01:39 Waiting for USB host connection...
+2026-03-17 03:01:41 USB host detected!
+2026-03-17 03:01:44 Running payload: /home/transient/pi-badusb/test.payload.ds
+Payload executed successfully. Log: /home/transient/pi-badusb/ducky.log
+2026-03-17 03:02:29 === autorun.sh finished ===
+2026-03-17 03:12:48 === autorun.sh started ===
+2026-03-17 03:12:58 Boot settle complete
+2026-03-17 03:12:58 Running gadget_setup.sh...
+
+=== Gadget Setup Complete ===
+
+[+] HID keyboard ready: /dev/hidg0
+[+] WiFi IP: 192.168.1.132
+
+To start the payload menu:
+  sudo python3 ~/badusb_menu/payload_menu.py
+
+Then open in browser:
+  http://192.168.1.132:8080
+2026-03-17 03:12:58 /dev/hidg0 is ready
+2026-03-17 03:12:58 Waiting for USB host connection...
+2026-03-17 03:13:00 USB host detected!
+2026-03-17 03:13:03 Running payload: /home/transient/pi-badusb/test.payload.ds
+Payload executed successfully. Log: /home/transient/pi-badusb/ducky.log
+2026-03-17 03:13:48 === autorun.sh finished ===
+2026-03-17 06:35:45 === autorun.sh started ===
+2026-03-17 06:35:55 Boot settle complete
+2026-03-17 06:35:55 Running gadget_setup.sh...
+
+=== Gadget Setup Complete ===
+
+[+] HID keyboard ready: /dev/hidg0
+[+] WiFi IP: 192.168.1.132
+
+To start the payload menu:
+  sudo python3 ~/badusb_menu/payload_menu.py
+
+Then open in browser:
+  http://192.168.1.132:8080
+2026-03-17 06:35:55 /dev/hidg0 is ready
+2026-03-17 06:35:55 Waiting for USB host connection...
+2026-03-17 06:35:57 USB host detected!
+2026-03-17 06:36:00 Running payload: /home/transient/pi-badusb/test.payload.ds
+Payload executed successfully. Log: /home/transient/pi-badusb/ducky.log
+2026-03-17 06:41:43 === autorun.sh finished ===
+2026-03-17 10:41:52 === autorun.sh started ===
+2026-03-17 10:42:02 Boot settle complete
+2026-03-17 10:42:02 Running gadget_setup.sh...
+
+=== Gadget Setup Complete ===
+
+[+] HID keyboard ready: /dev/hidg0
+[+] WiFi IP: 192.168.1.132
+
+To start the payload menu:
+  sudo python3 ~/badusb_menu/payload_menu.py
+
+Then open in browser:
+  http://192.168.1.132:8080
+2026-03-17 10:42:02 /dev/hidg0 is ready
+2026-03-17 10:42:02 Waiting for USB host connection...
+2026-03-17 10:42:04 USB host detected!
+2026-03-17 10:42:07 Running payload: /home/transient/pi-badusb/test.payload.ds
+Payload executed successfully. Log: /home/transient/pi-badusb/ducky.log
+2026-03-17 11:49:51 === autorun.sh finished ===
